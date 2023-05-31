@@ -39,4 +39,4 @@
 
 <p align="center">Click to go </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer)
