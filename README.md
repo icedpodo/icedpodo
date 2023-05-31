@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Jihye%20Han&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World%20I'm&ddescSize=20&descAlign=35&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Jihye%20Han&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐬%20I'm&ddescSize=20&descAlign=35&descAlignY=35)
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used</p>
@@ -38,3 +38,5 @@
 </p>
 
 <p align="center">Click to go </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=footer)
