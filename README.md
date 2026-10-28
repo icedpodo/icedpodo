@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=1&height=200&section=header&text=Jihye%20Han&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐬%20I'm&ddescSize=20&descAlign=35&descAlignY=35)
+
 <div align="center">
 <h3>🛠️ Tech Stack 🛠️</h3>
 <p>Techs that I've used</p>
